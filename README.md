@@ -7,10 +7,15 @@
 ## Интерфейс
 
 Шапка и элементы управления:
+
 ![](https://raw.githubusercontent.com/rustam-id/rustam-id.github.io/master/readme_img/top.png)
+
 Нижняя часть таблицы
+
 ![](https://raw.githubusercontent.com/rustam-id/rustam-id.github.io/master/readme_img/bottom.png)
+
 Активное модальное окно (доступно по клику на строке)
+
 ![](https://raw.githubusercontent.com/rustam-id/rustam-id.github.io/master/readme_img/modal.png)
 
 ## Используемые средства:
