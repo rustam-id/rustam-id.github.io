@@ -4,7 +4,18 @@
 ## О приложении
 Работающий прототип частично адаптивной страницы с интерактивной таблицей с функциями сортировки, поиска (фильтрации), а так же редактированием полей через модальное окно.
 
-Реализовано на [vue](https://vuejs.org/)+[vuetify](https://vuetifyjs.com/ru/)
+## Интерфейс
+
+Шапка и элементы управления:
+![](https://raw.githubusercontent.com/rustam-id/rustam-id.github.io/master/readme_img/top.png)
+Нижняя часть таблицы
+![](https://raw.githubusercontent.com/rustam-id/rustam-id.github.io/master/readme_img/bottom.png)
+Активное модальное окно (доступно по клику на строке)
+![](https://raw.githubusercontent.com/rustam-id/rustam-id.github.io/master/readme_img/modal.png)
+
+## Используемые средства:
+
+Реализовано на [@vue/cli 4.0.5](https://vuejs.org/)+[vuetify](https://vuetifyjs.com/ru/)
 
 Для удобства работы с датами использована библиотека 
 [moment.js](https://momentjs.com/)
