@@ -1,5 +1,6 @@
 <template>
   <v-app>
+  <!-- шапка сайта -->
     <v-app-bar
       app
      
@@ -36,7 +37,7 @@
         <v-icon>mdi-open-in-new</v-icon>
       </v-btn>
     </v-app-bar>
-
+<!-- подключение компонента таблицы -->
     <v-content>
       <MainTable/>
     </v-content>
